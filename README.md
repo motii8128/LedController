@@ -1,3 +1,3 @@
 # LedController
 
-![Screenshot from 2025-04-23 22-42-08](https://github.com/user-attachments/assets/adbae425-fb5b-44a9-99ec-f626fd65bce6)
+<img width="956" height="812" alt="Screenshot from 2025-08-12 12-14-29" src="https://github.com/user-attachments/assets/c5a95a71-665f-47f3-a76b-a464df06e26d" />
